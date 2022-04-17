@@ -35,9 +35,19 @@ O Orbit foi desenvolvido visando monitorar um sistema e caso haja a possibilidad
 
 Desenvolver uma ferramenta que alerta com antecedência o risco de uma falha
 
+
 ## O Projeto
 
 O projeto consiste em uma solução que tem a capacidade de monitorar uma aplicação e alerta com antecedência o operador caso haja risco de falha. Além disso ela será capaz de monitorar e exibir as informações da aplicação em tempo real. 
+
+
+## Projeto em funcionamento
+
+
+![alert](https://user-images.githubusercontent.com/56441318/163734168-803857bf-4493-4e8d-abe8-92a007f580fa.gif)
+
+Neste teste foram cadastrados 500 usuários em uma taxa de 900 usuários por segundo, de modo a forçar uma falha da aplicação de cadastro. Logo em seguida, é enviado uma mensagem automaticamente pelo Slack alertando o usuário sobre a falha.
+
 
 ### Requisitos Funcionais
 
@@ -47,6 +57,7 @@ O projeto consiste em uma solução que tem a capacidade de monitorar uma aplica
 
 - Prever quando ocorrerá uma falha de software que causará a indisponibilidade da
 aplicação
+
 
 ### Requisitos Não Funcionais
 

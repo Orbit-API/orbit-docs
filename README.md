@@ -68,3 +68,17 @@ aplicação
 
 ### Backlog do produto resumido:
 ![backlog_orbit-v1_Prancheta 1](https://user-images.githubusercontent.com/56441318/162599958-5b9a8825-fae9-4c69-8d22-f544562a0de3.png)
+
+
+### Acessando as entregas
+
+- [Sprint 1](https://github.com/Orbit-API/orbit-docs/tree/main/Sprint%201)
+
+
+
+### Tecnologias utilizadas
+- Java Spring Boot
+- Vue JS
+- Locust
+- Prometheus
+

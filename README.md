@@ -67,7 +67,7 @@ aplicação
 
 
 ### Backlog do produto resumido:
-![backlog_orbit-v1_Prancheta 1](https://user-images.githubusercontent.com/56441318/162599958-5b9a8825-fae9-4c69-8d22-f544562a0de3.png)
+![backlog_orbit_v2_Prancheta 1](https://user-images.githubusercontent.com/56441318/163737121-40d5586f-2130-4033-a26c-87eb2cf86f8d.png)
 
 
 ### Acessando as entregas

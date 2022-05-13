@@ -73,6 +73,7 @@ aplicação
 ### Acessando as entregas
 
 - [Sprint 1](https://github.com/Orbit-API/orbit-docs/tree/main/Sprint%201)
+- [Sprint 2](https://github.com/Orbit-API/orbit-docs/tree/main/Sprint%202)
 
 
 
@@ -81,4 +82,5 @@ aplicação
 - Vue JS
 - Locust
 - Prometheus
+- Grafana
 

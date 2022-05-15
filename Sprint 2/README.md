@@ -28,3 +28,6 @@ A segunda sprint contemplará os seguintes incrementos previamente propostos:
 
 2º - O nosso webservice é acesso [clicando aqui.](https://github.com/Orbit-API/orbit-webservice)
 
+## Estrutura e Fluco
+O diagrama a seguir mostra como está funcionando a aplicação nesta Sprint 2, incluindo a organização das máquinas virtuais e o fluxo dos dados.
+![draft-orbit-structure](https://user-images.githubusercontent.com/56441318/168480728-c159fdfd-d398-4e37-b236-97e93dce8496.png)

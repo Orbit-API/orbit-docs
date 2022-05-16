@@ -84,4 +84,4 @@ aplicação
 - Locust
 - Prometheus
 - Grafana
-
+- SKLearn

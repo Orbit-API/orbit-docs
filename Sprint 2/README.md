@@ -31,3 +31,12 @@ A segunda sprint contemplará os seguintes incrementos previamente propostos:
 ## Estrutura e Fluco
 O diagrama a seguir mostra como está funcionando a aplicação nesta Sprint 2, incluindo a organização das máquinas virtuais e o fluxo dos dados.
 ![draft-orbit-structure](https://user-images.githubusercontent.com/56441318/168480728-c159fdfd-d398-4e37-b236-97e93dce8496.png)
+
+
+## Projeto em funcionamento
+
+![Gif-Orbit](https://user-images.githubusercontent.com/56441318/168501973-8e5a1e5b-d5fb-4379-8076-0b2b47a94f75.gif)
+
+O vídeo acima demonstra a aplicação em funcionamento, com os gráficos de monitoramento em tempo real exibindo todas as informações importantes sobre a saúde do sistema. Além disso ele demonstra o envio do alerta via Slack caso detecte um risco de falha da aplicação.
+
+Detalhe no final do vídeo onde a memória Heap tem um grande salto e logo em seguida é enviado uma mensagem de alerta no slack.

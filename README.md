@@ -38,15 +38,16 @@ Desenvolver uma ferramenta que alerta com antecedência o risco de uma falha
 
 ## O Projeto
 
-O projeto consiste em uma solução que tem a capacidade de monitorar uma aplicação e alerta com antecedência o operador caso haja risco de falha. Além disso ela será capaz de monitorar e exibir as informações da aplicação em tempo real. 
+O projeto consiste em uma solução que tem a capacidade de monitorar uma aplicação e alerta com antecedência o operador caso haja risco de falha. Além disso ela será capaz de monitorar e exibir as informações da aplicação em tempo real.
 
 
 ## Projeto em funcionamento
 
+![Gif-Orbit](https://user-images.githubusercontent.com/56441318/168501973-8e5a1e5b-d5fb-4379-8076-0b2b47a94f75.gif)
 
-![alert](https://user-images.githubusercontent.com/56441318/163734168-803857bf-4493-4e8d-abe8-92a007f580fa.gif)
+O vídeo acima demonstra a aplicação em funcionamento, com os gráficos de monitoramento em tempo real exibindo todas as informações importantes sobre a saúde do sistema. Além disso ele demonstra o envio do alerta via Slack caso detecte um risco de falha da aplicação.
 
-Neste teste foram cadastrados 500 usuários em uma taxa de 900 usuários por segundo, de modo a forçar uma falha da aplicação de cadastro. Logo em seguida, é enviado uma mensagem automaticamente pelo Slack alertando o usuário sobre a falha.
+Detalhe no final do vídeo onde a memória Heap tem um grande salto e logo em seguida é enviado uma mensagem de alerta no slack.
 
 
 ### Requisitos Funcionais

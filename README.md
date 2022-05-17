@@ -63,7 +63,6 @@ aplicação
 ### Requisitos Não Funcionais
 
 - O tempo de resposta do backend de cadastros deve ser abaixo de 300ms
-- 
 - O tempo de resposta do backend de consulta de cadastros deve ser abaixo de 100ms
 
 

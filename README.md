@@ -1,6 +1,7 @@
 # Documentação Orbit
 
-![background-orbit_Prancheta 1](https://user-images.githubusercontent.com/56441318/160112708-193a18fe-2241-427c-8fe0-2dc23324b48a.png)
+![background-orbit-com-slogan](https://user-images.githubusercontent.com/56441318/171164559-775dfbf2-5a23-4b91-b0fb-6318a50cebac.png)
+
 O Orbit foi desenvolvido visando monitorar um sistema e caso haja a possibilidade de que este sistema corre risco de falhar, ele avisa ao operador para que tome uma atitude com antecedência, garantindo que a aplicação permaneça no ar sem que o usuário perceba qualquer falha. O projeto está sendo desenvolvido a partir de uma parceria com a Fatec São José dos Campos - Prof. Jessen Vidal.
 
 ## Disciplinas Integradas

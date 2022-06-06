@@ -1,4 +1,4 @@
-# Sprint 2 - Descrição da entrega
+# Sprint 3 - Descrição da entrega
 
 A terceira e última sprint contemplará os seguintes incrementos previamente propostos:
 

@@ -79,7 +79,7 @@ O diagrama a seguir mostra como está funcionando a aplicação, incluindo a org
 
 - [Sprint 1](https://github.com/Orbit-API/orbit-docs/tree/main/Sprint%201)
 - [Sprint 2](https://github.com/Orbit-API/orbit-docs/tree/main/Sprint%202)
-- [Sprint 2](https://github.com/Orbit-API/orbit-docs/tree/main/Sprint%203)
+- [Sprint 3](https://github.com/Orbit-API/orbit-docs/tree/main/Sprint%203)
 
 
 ### Tecnologias utilizadas

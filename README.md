@@ -68,7 +68,7 @@ aplicação
 
 ## Estrutura e Fluxo
 O diagrama a seguir mostra como está funcionando a aplicação, incluindo a organização das máquinas virtuais e o fluxo dos dados.
-![draft-orbit-structure](https://user-images.githubusercontent.com/56441318/168480728-c159fdfd-d398-4e37-b236-97e93dce8496.png)
+![draft-orbit-structure@1 25x](https://user-images.githubusercontent.com/56441318/172076820-fe15b6bf-97b4-42e5-b82d-b50857cac375.png)
 
 
 ### Backlog do produto resumido:

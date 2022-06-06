@@ -66,16 +66,20 @@ aplicação
 - O tempo de resposta do backend de cadastros deve ser abaixo de 300ms
 - O tempo de resposta do backend de consulta de cadastros deve ser abaixo de 100ms
 
+## Estrutura e Fluxo
+O diagrama a seguir mostra como está funcionando a aplicação, incluindo a organização das máquinas virtuais e o fluxo dos dados.
+![draft-orbit-structure](https://user-images.githubusercontent.com/56441318/168480728-c159fdfd-d398-4e37-b236-97e93dce8496.png)
+
 
 ### Backlog do produto resumido:
-![backlog_orbit_Prancheta 1](https://user-images.githubusercontent.com/56441318/168578693-c562f27e-9aba-4d88-84d3-2bb06b8f4888.png)
+![backlog_orbit_v3_Prancheta 1](https://user-images.githubusercontent.com/56441318/172073923-0d32e9fc-f5e2-450d-b960-322dbdfe48a6.png)
 
 
 ### Acessando as entregas
 
 - [Sprint 1](https://github.com/Orbit-API/orbit-docs/tree/main/Sprint%201)
 - [Sprint 2](https://github.com/Orbit-API/orbit-docs/tree/main/Sprint%202)
-
+- [Sprint 2](https://github.com/Orbit-API/orbit-docs/tree/main/Sprint%203)
 
 
 ### Tecnologias utilizadas
@@ -85,3 +89,4 @@ aplicação
 - Prometheus
 - Grafana
 - SKLearn
+- MongoDB
